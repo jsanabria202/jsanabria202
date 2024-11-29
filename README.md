@@ -1,4 +1,5 @@
 # jsanabria202
+
 **Titulo**
 Javier Sanabria
 
@@ -10,15 +11,25 @@ este proyecto es el primero que se realiza en el curso y contiene los siguientes
 
 **Autor**
 Como Autor de este proyecto me presento:
+
 ### -tengo 22 años
+
 ### - soy empleado y estudiante, unicamente en este momento
-### - tengo conocimento basico por el momento de programas de edicion como 
- ### - illustrator
- ### - photoshop
- ### - after effects
- ### - premier
-### - manejo 
+
+### - tengo conocimento basico por el momento de programas de edicion como
+
+### - illustrator
+
+### - photoshop
+
+### - after effects
+
+### - premier
+
+### - manejo
+
 ### **contacto**
+
 **numero**
 +57 3004130255
 **correo**
