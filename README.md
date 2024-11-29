@@ -6,21 +6,21 @@
 
 **Descripción**
 Actualmente Soy estudiante en BIT, aprendiendo en los temas relacionados a la parte frontend y backend del desarrollo de paginas web, trabajo moderando contenido de redes sociales,
-y ademas me encuentro en capacitacion como analista de calidad, algunos de mi hobbys e intereses personales se realcionan a los difernetes tipos de arte,
+y ademas me encuentro en capacitacion como analista de calidad, algunos de mi hobbys e intereses personales se relacionan a los diferentes tipos de arte,
 tales como la musica, el dibujo, la pintura ,etc.
 
 **Sobre mi**
-Como Autor de este proyecto presento akgunas de mis hablidades:
+Como Autor de este proyecto presento algunas de mis hablidades:
 
-## - illustrator
+## - Illustrator
 
-## - photoshop
+## - Photoshop
 
-## - after effects
+## - After effectsS
 
-## - premier
+## - Premier
 
-## **contacto**
+## **Contacto**
 
 **numero**
 +57 3004130255
